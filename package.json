@@ -53,7 +53,6 @@
     "babel-preset-stage-0": "^6.24.1"
   },
   "scripts": {
-
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "lib": "NODE_ENV=production babel src/node_modules --out-dir lib --copy-files",
