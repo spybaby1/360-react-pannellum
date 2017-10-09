@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "name": "360-react-pannellum",
+  "main": "./AppContainer.js"
+}
