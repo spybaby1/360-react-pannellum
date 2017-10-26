@@ -21,7 +21,7 @@ yarn add 360-react-pannellum
 
 ```js
 import React, { Component } from 'react'
-import Pannellum from 'components/360-react-pannellum'
+import { Pannellum } from '360-react-pannellum'
 
 class Example extends Component {
   render () {
@@ -36,9 +36,9 @@ class Example extends Component {
       showFullscreenCtrl={false}
       autoLoad />
   }
+}
 
-  const closeAction = () => {
+const closeAction = () => {
 
-  }
 }
 ```
